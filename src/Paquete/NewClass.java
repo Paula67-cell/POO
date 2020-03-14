@@ -9,6 +9,6 @@ package Paquete;
  *
  * @author Maria Paula
  */
-public class Repositorio {
+public class NewClass {
     
 }
